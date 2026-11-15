@@ -1,0 +1,6 @@
+{
+  "name": "Helios Observatory",
+  "description": "Ultra-realistic interactive 3D solar system explorer with a moving deep-space starfield, rotatable planetary orbits, and detailed planetary telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
